@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Oririn (oririn_genzo)
 
-<!--
-**oririn-genzo/oririn-genzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+フリーランスのIT講師・技術顧問・エンジニアです。  
+40年以上プログラミングを続け、学校・企業・官公庁など幅広い現場で教育やシステムづくりをお手伝いしてきました。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 専門分野
+- ネットワーク／サーバー設計・構築  
+- Webアプリ／業務システム開発  
+- 技術教育（学校授業・企業研修）  
+- AIシステムの設計と運用  
+
+---
+
+### 🔹 AIへの取り組み
+10代で「ELIZA」と出会い、以来AIを追いかけてきました。  
+AIを単なるテクノロジーではなく、人間や社会との関わりの中で捉え、哲学・心理・脳科学など多方面からも探求しています。  
+
+現在は **ローカルで動くLLM（ローカルAI）** に注力し、OSSとして成果を公開しています。  
+*Developing privacy-friendly local LLM systems and sharing OSS with the community.*
+
+---
+
+### 🔹 スタンス
+- 営業や宣伝はせず、口コミだけで活動（名刺・公式Webなし）  
+- 「感謝を還元する」ためにOSS公開を志向  
+- 学びと実践のプロセスを共有  
+
+📌 興味があれば、ぜひフォロー＆コラボを！
